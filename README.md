@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is William. I live in DC and work on autonomous cyber security projects.
+
+The open source projects that I'm currently focusing on are:
+
+- [CALDERA](https://github.com/mitre/caldera), specifically the core code and new plugins
+
 <!--
 **wbooth/wbooth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
