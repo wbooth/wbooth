@@ -2,7 +2,7 @@
 
 My name is William. I live in DC and work on autonomous cyber security projects.
 
-The open source projects that I'm currently focusing on are:
+The open source projects that I'm currently contributing to:
 
 - [CALDERA](https://github.com/mitre/caldera), specifically the core code and new plugins
 
