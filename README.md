@@ -10,18 +10,17 @@ Open source projects that I'm maintaining:
 - **[CALDERA](https://github.com/mitre/caldera)** Automated Adversary Emulation Platform
 - **[Access](https://github.com/mitre/access)** (red team initial access tools and techniques)
 - **[Atomic](https://github.com/mitre/atomic)** (Atomic Read Team project TTPs)
-- **[Builder](https://github.com/mitre/builder)** (dynamically compile payloads)
+- **[Builder](https://github.com/mitre/builder)** (dynamically compililation of payloads for CALDERA)
 - **[Compass](https://github.com/mitre/compass)** (ATT&CK visualizations)
-- **[Debrief](https://github.com/mitre/debrief)** (operations insights)
-- **[GameBoard](https://github.com/mitre/gameboard)** (visualize joint red and blue operations)
-- **[Human](https://github.com/mitre/human)** (create simulated noise on an endpoint)
+- **[Debrief](https://github.com/mitre/debrief)** (operationals insights)
+- **[GameBoard](https://github.com/mitre/gameboard)** (visualization of joint red and blue operations)
+- **[Human](https://github.com/mitre/human)** (traffic simulation)
 - **[Manx](https://github.com/mitre/manx)** (shell functionality and reverse shell payloads)
 - **[Mock](https://github.com/mitre/mock)** (simulate agents in operations)
 - **[Response](https://github.com/mitre/response)** (incident response)
-- **[Sandcat](https://github.com/mitre/sandcat)** (default agent)
-- **[SSL](https://github.com/mitre/SSL)** (enable https for caldera)
-- **[Stockpile](https://github.com/mitre/stockpile)** (technique and profile storehouse)
-- **[Training](https://github.com/mitre/training)** (certification and training course)
+- **[Sandcat](https://github.com/mitre/sandcat)** (python implant)
+- **[Stockpile](https://github.com/mitre/stockpile)** (adversary and technique library)
+- **[Training](https://github.com/mitre/training)** (cyber security certification and training course)
 
 Open source projects that I'm currently contributing to:
 
