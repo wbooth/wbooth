@@ -5,9 +5,13 @@
 
 My name is William, I'm an MBA candidate at UChicago. I live in DC 🇺🇸 and work on cyber security projects.
 
-The open source projects that I'm currently contributing to:
+Open source projects that I'm maintaining:
 
 - [CALDERA](https://github.com/mitre/caldera), specifically the core code and new plugins
+
+Open source projects that I'm currently contributing to:
+
+- 
 
 ## Stats
 ![wbooth's github stats](https://github-readme-stats.vercel.app/api?username=wbooth&show_icons=true&hide_border=false&theme=dracula&count_private=true&hide_title=false)
