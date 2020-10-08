@@ -22,7 +22,7 @@ Open source projects that I'm maintaining:
 - **[Stockpile](https://github.com/mitre/stockpile)** (adversary and technique library)
 - **[Training](https://github.com/mitre/training)** (cyber security certification and training course)
 
-Open source projects that I'm currently contributing to:
+Other open source projects that I'm currently contributing to:
 
 - 
 
