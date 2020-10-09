@@ -27,11 +27,13 @@ Other open source projects that I'm currently contributing to:
 
 - 
 
+<!--
+
 ## Stats
 ![wbooth's github stats](https://github-readme-stats.vercel.app/api?username=wbooth&show_icons=true&hide_border=false&theme=dracula&count_private=true&hide_title=false)
 
 
-<!--
+
 **wbooth/wbooth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
