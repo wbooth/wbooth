@@ -3,9 +3,9 @@
 <a href="https://www.linkedin.com/in/william-booth-90023728/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 
 
-My name is William, I'm an MBA candidate at UChicago. I live in DC 🇺🇸 and work on cyber security projects.
+MBA candidate at UChicago. Living in DC 🇺🇸 and working on cyber security projects.
 
-Open source projects that I'm maintaining:
+Currently maintaining:
 
 - **[CALDERA](https://github.com/mitre/caldera)** Automated Adversary Emulation Platform
 - **[Access](https://github.com/mitre/access)** (red team initial access tools and techniques)
@@ -23,7 +23,7 @@ Open source projects that I'm maintaining:
 - **[Stockpile](https://github.com/mitre/stockpile)** (adversary and technique library)
 - **[Training](https://github.com/mitre/training)** (cyber security certification and training course)
 
-Other open source projects that I'm currently contributing to:
+Currently contributing to:
 
 - 
 
