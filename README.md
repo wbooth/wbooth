@@ -2,8 +2,7 @@
 
 <a href="https://www.linkedin.com/in/williambbooth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 
-
-MBA candidate at UChicago. Living in DC 🇺🇸 and working on cyber security projects.
+Living in DC 🇺🇸 and working on cyber security projects.
 
 Currently maintaining:
 
