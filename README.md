@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/williambbooth/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 
-Living in DC 🇺🇸 and working on cyber security projects.
+in DC 🇺🇸 working on cyber security projects.
 
 Currently maintaining:
 
