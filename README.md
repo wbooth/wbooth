@@ -11,7 +11,7 @@ Currently maintaining:
 - **[Atomic](https://github.com/mitre/atomic)** (Atomic Read Team project TTPs)
 - **[Builder](https://github.com/mitre/builder)** (dynamically compililation of payloads for CALDERA)
 - **[Compass](https://github.com/mitre/compass)** (ATT&CK visualizations)
-- **[Debrief](https://github.com/mitre/debrief)** (operationals insights)
+- **[Debrief](https://github.com/mitre/debrief)** (operational insights)
 - **[Fieldmanual](https://github.com/mitre/fieldmanual)** (documentation)
 - **[GameBoard](https://github.com/mitre/gameboard)** (visualization of joint red and blue operations)
 - **[Human](https://github.com/mitre/human)** (traffic simulation)
