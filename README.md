@@ -4,7 +4,7 @@
 
 in DC 🇺🇸 working on cyber security projects.
 
-Currently maintaining:
+Previous projects:
 
 - **[CALDERA](https://github.com/mitre/caldera)** Automated Adversary Emulation Platform
 - **[Access](https://github.com/mitre/access)** (red team initial access tools and techniques)
